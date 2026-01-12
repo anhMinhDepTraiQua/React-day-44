@@ -87,7 +87,7 @@ function Navigation() {
 export default function App() {
   return (
     <ErrorBoundary>
-      <BrowserRouter>
+      <BrowserRouter basename="/React-day-44">
         <div style={{ 
           minHeight: '100vh',
           fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
