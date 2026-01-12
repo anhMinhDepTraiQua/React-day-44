@@ -1,0 +1,1 @@
+import{j as t}from"./index-CRlGaA3G.js";const e=()=>t.jsx("div",{style:{padding:"40px",maxWidth:"900px",margin:"0 auto"},children:t.jsx("h1",{style:{color:"#2c3e50",marginBottom:"20px"},children:"Khó quá bỏ qua Sentry đi thôi :D"})});export{e as default};
