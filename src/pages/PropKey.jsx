@@ -62,7 +62,7 @@ const PropKey = () => {
         marginBottom: '20px',
         fontStyle: 'italic'
       }}>
-        💡 Kéo thả để sắp xếp lại danh sách bài viết
+        Kéo thả để sắp xếp lại danh sách bài viết
       </p>
       
       <ReactSortable 
